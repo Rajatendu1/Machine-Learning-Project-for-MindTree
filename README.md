@@ -19,6 +19,6 @@ The following program is designed to both test your knowledge and to give you th
 2) Go through the instructions in the respective modules to understand the tasks assigned for each module
 3) Go through the format notebooks for writing the solutions for the respective modules in the correct format.
 4) Edit the solution jupyter notebooks and add your code for the queries in the respective modules or uplaod your notebook for that module.
-  ### Note: Only .ipynb files are supported.
+  ### Note: Only .ipynb files are supported.Other modules will be uploaded after I get the solutions for the current modules.
   
 ###   Disclaimer before contributing: Only significant contributions to this project would be accepted.   
