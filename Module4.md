@@ -2,6 +2,9 @@
 
 ## Trade Call Prediction using Classification
 In this module, we'd be covering the concept of classification and utilize our skills to solve the following queries – (Stock Price = Close Price)
+<img src="https://lf0.com/post/xgboost-time-series-classification-trading-strategy/XGBoost-time-series-quant-trading-strategy_files/figure-html/unnamed-chunk-22-1.png"
+     alt="Time-series classification"
+     style="float: left; margin-right: 10px;" />
 
 ## Problem Statements
 4.1 Import the csv file of the stock which contained the Bollinger columns as well.
