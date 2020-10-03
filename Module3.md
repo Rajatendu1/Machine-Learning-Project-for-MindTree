@@ -4,7 +4,11 @@
 
 This module would introduce us to the Regression related inferences to be drawn from the data.
 
-Regression is basically a statistical approach to find the relationship between variables. In machine learning, this is used to predict the outcome of an event based on the relationship between variables obtained from the data-set. More often than not, we utilize linear regression to come up with an ideal inference. We'd be using the regression model to solve the following problems:
+Regression is basically a statistical approach to find the relationship between variables. In machine learning, this is used to predict the outcome of an event based on the relationship between variables obtained from the data-set. More often than not, we utilize linear regression to come up with an ideal inference.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/1200px-Linear_regression.svg.png"
+     alt="linear regression image"
+     style="float: left; margin-right: 10px;" />
+We'd be using the regression model to solve the following problems:
 
 ## Problem Statements
 
