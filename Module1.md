@@ -49,3 +49,4 @@ Calculate the average price AND the profit/loss percentages over the course of l
 Follow the rules step-by-step specifically and perform the ask as per the queries to get the required result.
 
 Checking for PR..
+Checking for PR SM
