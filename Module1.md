@@ -47,3 +47,5 @@ Calculate the average price AND the profit/loss percentages over the course of l
 1.9 SAVE the dataframe with the additional columns computed as a csv file week2.csv. In Module 2, you are going to get familiar with matplotlib, the python module which is used to visualize data.
 
 Follow the rules step-by-step specifically and perform the ask as per the queries to get the required result.
+
+Checking for PR..
